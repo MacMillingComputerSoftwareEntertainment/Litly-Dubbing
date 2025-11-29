@@ -2,13 +2,13 @@
 **Comprehensive AI-Driven Video Dubbing & Localization Suite with Advanced Generative AI Integration**
 
 <div align="center">
-<img src="docs/linly_logo.png" /><br>
+<img src="docs/linly_logo.png" style="width:480px;" /><br>
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-green.svg?style=for-the-badge)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.3.1+-red.svg?style=for-the-badge)](https://pytorch.org/)
 
-**[English](#litly-dubbing) | [Deutsch](#litly-dubbing)**
+**[English](#litly-dubbing) | [](#litly-dubbing)**
 
 </div>
 
